@@ -1,10 +1,12 @@
-# Hello! I'm Gurvir ◡̈ 
-+ 🏫 I'm currently pursuing an undergraduate degree in **Computer Engineering** at the **University of Waterloo**
-+ 🌐 I strive to leverage **software** and **hardware** technologies to improve the world we live in
-+ 🤝 I hope to explore new opportunities and connect with like-minded individuals
+# Hello! I'm Gurvir ◡̈
+I'm looking to use **software** & **hardware** to build solutions to today's problems.
 
-You can reach me at [gurvirrandhawa28@gmail.com](mailto:gurvirrandhawa28@gmail.com), or through my [Linkedin](https://www.linkedin.com/in/gurvirr/)!
+**I am...**
++ studying **computer engineering** @ **uwaterloo**
++ continually learning; currently exploring **ml**, **computer vision**, & **graphics programming**
++ always open to new opportunities to connect with like-minded people
 
+You can reach me at [gurvirrandhawa28@gmail.com](mailto:gurvirrandhawa28@gmail.com), or through my [Linkedin](https://www.linkedin.com/in/gurvirr/)
 
 ## Languages:
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=white&color=2a71d4)
