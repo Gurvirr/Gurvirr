@@ -1,5 +1,5 @@
 # Hello! I'm Gurvir ◡̈
-I'm looking to use **software** & **hardware** to build solutions to today's problems.
+I'm looking to use **software** & **hardware** to build solutions to today's problems, while also having some fun along the way : )
 
 **I am...**
 + studying **computer engineering** @ **uwaterloo**
