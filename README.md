@@ -1,5 +1,5 @@
 # Hi, I'm Gurvir
-I engineer with purpose - and for fun ◡̈
+I make stuff for fun ◡̈
 
 
 ### **I am…**
